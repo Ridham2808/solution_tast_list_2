@@ -3,3 +3,4 @@ This is another conflicting line.
 =======
 This is a conflicting line.
 >>>>>>> conflict-branch
+Unfinished work
